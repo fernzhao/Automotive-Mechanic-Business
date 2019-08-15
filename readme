@@ -1,0 +1,9 @@
+name:feifeizhao
+student number: 101047476
+purpose: create a program which could be an automotive mechanic business to keep track of their customers and their vehicles.
+sources: assignment1.c
+compilation command:
+gcc -Wall -o assignment1 assignment1.c
+
+lauching and operating instructions:
+./assignment1
